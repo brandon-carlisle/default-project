@@ -4,5 +4,4 @@
 .DS_Store
 .prettierignore
 node_modules/
-design/
 dist/
